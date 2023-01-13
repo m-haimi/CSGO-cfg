@@ -6,8 +6,8 @@ Steam installation folder paths (Universal):
 C:\Program Files (x86)\Steam\steamapps\common\
 ```
 
-cry-kun
+Cry-Kun
 
 ```css
-C:\Program Files (x86)\Steam\userdata\1343552514\
+C:\Program Files (x86)\Steam\userdata\id-number\
 ```
