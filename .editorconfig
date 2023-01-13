@@ -1,0 +1,49 @@
+# This file is the top-most EditorConfig file
+root = true
+
+# All Files
+[*]
+charset = utf-8
+indent_style = space
+indent_size = 4
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Max line length (not supported by all editors)
+max_line_length = 120
+
+## File Extension Settings
+
+# Xml files
+[*.xml]
+indent_size = 2
+
+# The indent size used in the package.json file cannot be changed:
+# https://github.com/npm/npm/pull/3180#issuecomment-16336516
+[*.{yml,yaml,package.json}]
+indent_size = 2
+
+# Markdown files
+[*.md]
+trim_trailing_whitespace = false
+
+# PowerShell Files
+[*.ps1]
+end_of_line = crlf
+
+# Batch Files
+[*.{cmd,bat}]
+end_of_line = crlf
+
+# Bash Files
+[*.sh]
+end_of_line = lf
+
+# Game config files
+[*.{txt,ini,rc}]
+end_of_line = crlf
+trim_trailing_whitespace = false
+
+[*.cfg]
+end_of_line = crlf
+trim_trailing_whitespace = false

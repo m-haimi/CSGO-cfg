@@ -1,0 +1,19 @@
+# IntelliJ IDE related
+/.idea/ 
+!**/.idea/**/*.xml 
+!**/.idea/**/*.iml 
+**/.idea/workspace.xml 
+**/.idea/tasks.xml
+
+# Steam related files
+coop
+survival
+*.vdf
+*.360
+*.ekv
+*.scr
+
+# Steam Cache files
+socache.dt
+downloadcache.db
+*.ushaderprecache
