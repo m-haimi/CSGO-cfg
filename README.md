@@ -1,7 +1,5 @@
 ## CS:GO Game Configs
 
-- - -
-
 ### Useful (CS:GO) resources
 - Console "Give" Commands: [https://steamcommunity.com/sharedfiles/filedetails/?id=239602658](https://steamcommunity.com/sharedfiles/filedetails/?id=239602658)
 - Video settings and their meanings: [https://steamcommunity.com/app/730/discussions/0/412447613573349151](https://steamcommunity.com/app/730/discussions/0/412447613573349151)
@@ -13,5 +11,3 @@
 ### Sensitivity related
 
 - Mouse DPI Calculator: [https://www.easycalculation.com/other/dpi-calculator.php](https://www.easycalculation.com/other/dpi-calculator.php)
-
-- - -
