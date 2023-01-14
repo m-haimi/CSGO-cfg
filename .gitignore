@@ -4,6 +4,7 @@
 !**/.idea/**/*.iml 
 **/.idea/workspace.xml 
 **/.idea/tasks.xml
+.fleet
 
 # Steam related files
 coop
