@@ -5,7 +5,7 @@
 
 ### NVIDIA Control panel related
 - Nvidia GeForce Tweak Guide: [https://tweakguides.pcgamingwiki.com/NVFORCE_1.html](https://tweakguides.pcgamingwiki.com/NVFORCE_1.html)
-- Turn GPU Scaling on or off? [https://forums.evga.com/Turn-GPU-Scaling-on-or-off-m1386005.aspx](https://forums.evga.com/Turn-GPU-Scaling-on-or-off-m1386005.aspx)
+- Turn GPU Scaling on or off? [https://forums.evga.com/Turn-GPU-Scaling-on-or-off-m1386005.aspx](https://forums.evga.com/Turn-GPU-Scaling-on-or-off-m1386005.aspx)<br />
 -- GPU Scaling = OFF (if monitor supports it) -> Display Scaling  = ON (because display scaling improves input lag).
 
 ### Sensitivity related
