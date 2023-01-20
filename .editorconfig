@@ -15,7 +15,7 @@ curly_bracket_next_line = false
 spaces_around_operators = true
 
 # Max line length (not supported by all editors)
-max_line_length = 255
+max_line_length = 225
 
 # Markdown files
 [*.md]
