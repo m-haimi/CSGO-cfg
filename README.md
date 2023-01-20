@@ -1,22 +1,16 @@
-### CS:GO
+### <u>CS:GO</u>
 
 My personal CS:GO configs.
 
-- - -
-
-#### Universal config location:
+#### Universal (common) config:
 ```css
 C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
 ```
 
-#### Miksu2389:
+#### Config (user) locations:
 ```css
-C:\Program Files (x86)\Steam\userdata\39093801\730\local\cfg
+Miksu2389: C:\Program Files (x86)\Steam\userdata\39093801\730\local\cfg
+Cry-Kun: C:\Program Files (x86)\Steam\userdata\1343552514\730\local\cfg
 ```
 
-#### Cry-Kun:
-```css
-C:\Program Files (x86)\Steam\userdata\1343552514\730\local\cfg
-```
-
-- - -
+- [Common cfg](tree/main/SteamLibrary/Counter-Strike%20Global%20Offensive/common)
