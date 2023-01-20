@@ -10,7 +10,7 @@ insert_final_newline = true
 trim_trailing_whitespace = true
 
 # Max line length (not supported by all editors)
-max_line_length = 120
+max_line_length = 255
 
 ## File Extension Settings
 
