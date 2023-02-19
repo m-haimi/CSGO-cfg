@@ -1,10 +1,10 @@
 "VideoConfig"
 {
-	"setting.cpu_level"                                "0"       // Effect detail: 0=Low, 1=Medium, 2=High.
-	"setting.gpu_level"                                "0"       // Shader detail: 0=Low, 1=Medium, 2=High, 3=Very high.
-	"setting.mat_antialias"                            "8"       // Multisampling Anti-Aliasing Mode: 0=none, 2=2X MSAA, 4=4X MSAA, 8=8X MSAA.
+	"setting.cpu_level"                                "2"       // Effect detail: 0=Low, 1=Medium, 2=High.
+	"setting.gpu_level"                                "2"       // Shader detail: 0=Low, 1=Medium, 2=High, 3=Very high.
+	"setting.mat_antialias"                            "2"       // Multisampling Anti-Aliasing Mode: 0=none, 2=2X MSAA, 4=4X MSAA, 8=8X MSAA.
 	"setting.mat_aaquality"                            "0"       // Anti-aliasing quality: 0, 1, 2, 4.
-	"setting.mat_forceaniso"                           "0"       // Anisotropic filter: 0, 2, 4, 8, 16.
+	"setting.mat_forceaniso"                           "1"       // Anisotropic filter: 0, 2, 4, 8, 16.
 	"setting.mat_vsync"                                "0"       // Vertical syncronisation: 0=off, 1=on.
 	"setting.mat_triplebuffered"                       "0"       // Triple buffering: 0=off, 1=on.
 	"setting.mat_grain_scale_override"                 "1"       // def=-1.000000
@@ -16,7 +16,7 @@
 	"setting.mat_software_aa_strength"                 "0"       // FXAA smoothing edges factor: 0=disabled, 1, 2, 4, 8, 16.
 	"setting.mat_motion_blur_enabled"                  "0"       // Motion sharpness: 0=off, 1=on.
 	"setting.mat_texturestreaming"                     "0"       // 0=Disabled, 1=Enabled.
-	"setting.r_player_visibility_mode"                 "0"       // Makes player models easier to spot, adds white border over player models. On older Intel machines, use 0=disabled, else 1=enabled.
+	"setting.r_player_visibility_mode"                 "1"       // Makes player models easier to spot, adds white border over player models. On older Intel machines, use 0=disabled, else 1=enabled.
 	"setting.mat_enable_uber_shaders"                  "1"       // 0=Disabled, 1=Enabled.
 	"setting.defaultres"                               "1280"    // Resolution screen x-ax.
 	"setting.defaultresheight"                         "960"     // Resolution screen y-ax.
